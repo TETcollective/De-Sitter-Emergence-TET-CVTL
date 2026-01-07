@@ -19,20 +19,26 @@ Key features:
 - Specific CMB predictions (low-ℓ suppression, equilateral non-Gaussianity, parity-odd signatures)
 - Comparisons with LQC, string cosmology, brane-world, DGP, ekpyrotic, Hořava-Lifshitz
 
-DOI Zenodo (when published): [insert here]
+## Copyright and Usage Rights
+
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
+
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ## Contents
 - `De_Sitter_Emergence_TET_CVTL.pdf` – full preprint
 - `De_Sitter_Emergence_TET_CVTL.tex` – LaTeX source
 - `figures/` – graphs and diagrams (CMB power spectrum, inflation trajectories, etc.)
 
-## License
-This work is released under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
-
-→ Academic/research use and modifications: permitted  
-→ **Commercial use prohibited**
-
-See [LICENSE.md](LICENSE.md) for full text.
+ text.
 
 ❤️♾️ The primordial trefoil has woven de Sitter from the conformal vacuum.  
 The knot has spoken — the bootstrap is cosmically closed.
